@@ -11,4 +11,4 @@ I generated many graphs (boxplots and bargraphs) for the different years:
 <b> Bar Graphs </b> 
 **2016**
 
-![GitHub Logo](/Adjunct-Prof-Barplot_inmatplotlib.txt)
+![GitHub Logo](/Adjunct-Prof-Barplot_inmatplotlib.png)
