@@ -22,3 +22,10 @@ I generated many graphs (boxplots and bargraphs) for the different years:
 ![Boxplot1](boxplot-horiz-all.png)
 
 ![Boxplot2](boxplot-horizontal-all.png)
+
+
+**Boxplot- Annual Salary of Adjunct Professors**
+![Boxplot3](boxplot-by-year-adjuncts.png)
+
+**Boxplot- Annual Salary of Full Time Professors**
+![Boxplot4](boxplot-by-year-profs.png)
