@@ -16,7 +16,8 @@ I generated many graphs (boxplots and bargraphs) for the different years:
 **Annual Salary for Adjuncts per School**
 ![Next Logo](/Adjuncts-Barplot.png)
 
-
+**Annual Salary for Professors per School**
+![Nextnext Logo](/Professor-Barplot.png)
 
 <b> BoxPlot </b>
 ![Boxplot1](boxplot-horiz-all.png)
