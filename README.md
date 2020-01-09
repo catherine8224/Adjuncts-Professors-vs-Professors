@@ -6,9 +6,11 @@ This project is comparing the salary of Adjunct Professors vs. Professors (from 
   <li><a href = "openpayrolls.com"> OpenPayrolls </a></li>
 </ul>
 
-I first did webscraping on the SeeThroughNY website, focusing mainly on Professors located in the NYC area, and the same for Adjunct Professors. 
 ![](SeeThrough.gif)
 
+Since <a href= "www.seethroughny.net/payrolls"> SeeThroughNY </a> does not provide Excel sheet of the data, I first did webscraping on the SeeThroughNY website, focusing mainly on Professors located in the NYC area, and the same for Adjunct Professors. The python script is providing under webscraping*.py
+
+I then saved the data in editor*.csv. I then parsed the data based on the data I needed.
 
 I generated many graphs (boxplots and bargraphs) for the different years:
 
