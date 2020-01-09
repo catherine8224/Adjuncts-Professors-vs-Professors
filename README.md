@@ -6,6 +6,8 @@ This project is comparing the salary of Adjunct Professors vs. Professors (from 
   <li><a href = "openpayrolls.com"> OpenPayrolls </a></li>
 </ul>
 
+I first did webscraping on the SeeThroughNY website, focusing mainly on Professors located in the NYC area, and the same for Adjunct Professors. 
+
 I generated many graphs (boxplots and bargraphs) for the different years:
 
 <b> Bar Graphs </b> 
