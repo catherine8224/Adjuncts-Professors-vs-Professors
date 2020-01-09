@@ -20,3 +20,5 @@ I generated many graphs (boxplots and bargraphs) for the different years:
 
 <b> BoxPlot </b>
 ![Boxplot1](boxplot-horiz-all.png)
+
+![Boxplot2](boxplot-horizontal-all.png)
