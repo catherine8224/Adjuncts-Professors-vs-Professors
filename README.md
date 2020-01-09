@@ -9,6 +9,9 @@ This project is comparing the salary of Adjunct Professors vs. Professors (from 
 I generated many graphs (boxplots and bargraphs) for the different years:
 
 <b> Bar Graphs </b> 
-**2016**
+**Annual Salary for Adjunct Professors from 2016 to 2018**
 
 ![GitHub Logo](/Adjunct-Prof-Barplot_inmatplotlib.png)
+
+
+![Next Logo](/Adjuncts-Barplot.pdf)
