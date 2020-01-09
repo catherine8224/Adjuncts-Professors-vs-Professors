@@ -14,9 +14,9 @@ I generated many graphs (boxplots and bargraphs) for the different years:
 ![GitHub Logo](/Adjunct-Prof-Barplot_inmatplotlib.png)
 
 **Annual Salary for Adjuncts per School**
-![Next Logo](/Adjuncts-Barplot.pdf)
+![Next Logo](/Adjuncts-Barplot.png)
 
 
 
 <b> BoxPlot </b>
-![Boxplot1](boxplot-horiz-all.pdf)
+![Boxplot1](boxplot-horiz-all.png)
